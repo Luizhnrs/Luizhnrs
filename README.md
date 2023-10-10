@@ -18,7 +18,7 @@
 
 ✨ Alguns dos meus projetos notáveis aqui no GitHub:
 
-- [Membership-Plataform](https://github.com/Luizhnrs/Membership-Platform): Um CRUD para cadastro de membros comuns e Membros Premium.
+- [Membership-Plataform](https://github.com/Luizhnrs/Membership-Platform): Um CRUD para cadastro de membros comuns e embros premium.
 - [API-DevSpeakers](https://github.com/Luizhnrs/MyFirstAPI.ASPNET): Uma API de cadastro para Devs que desejam palestrar em eventos.
 - [Password-Generator](https://github.com/Luizhnrs/PasswordGenerator): Um gerador de senhas feito em Javascript
 
