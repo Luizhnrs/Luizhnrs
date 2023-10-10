@@ -8,7 +8,7 @@
 
 ## Minhas Habilidades
 
-🚀 Aqui estão algumas das linguagens e tecnologias que tenho experiência:
+🚀 Aqui estão algumas das linguagens e tecnologias que utilizo até o momento :
 
 - **C#**: Desenvolvimento de aplicativos Windows, aplicações empresariais e muito mais.
 - **JavaScript/TypeScript**: Desenvolvimento frontend e backend, bem como aplicações web interativas.
@@ -16,7 +16,7 @@
 
 ## Projetos Destacados
 
-✨ Alguns dos meus projetos notáveis aqui no GitHub:
+✨ Alguns dos meus projetos que fiz para praticar aqui no GitHub:
 
 - [Membership-Plataform](https://github.com/Luizhnrs/Membership-Platform): Um CRUD para cadastro de membros comuns e embros premium.
 - [API-DevSpeakers](https://github.com/Luizhnrs/MyFirstAPI.ASPNET): Uma API de cadastro para Devs que desejam palestrar em eventos.
