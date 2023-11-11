@@ -1,41 +1,21 @@
-# Bem-vindo ao meu perfil no GitHub!
-
-## Sobre Mim
-
-👋 Olá, sou Luiz Henrique, anteriormente um especialista em Marketing Digital apaixonado por estratégias digitais e análise de dados. No entanto, minha curiosidade pela engenharia por trás dos algoritmos me levou a mergulhar profundamente no mundo da programação.
-
-💻 Atualmente, sou um programador focado em desenvolvimento de software e aplicativos, e estou ansioso para explorar novos horizontes neste emocionante campo.
-
-## Minhas Habilidades
-
-🚀 Aqui estão algumas das linguagens e tecnologias que utilizo até o momento :
-
-- **C#**: Desenvolvimento de aplicativos Windows, aplicações empresariais e muito mais.
-- **JavaScript/TypeScript**: Desenvolvimento frontend e backend, bem como aplicações web interativas.
-- **Angular**: Framework para criação de aplicações web modernas e escaláveis.
-
-## Projetos Destacados
-
-✨ Alguns dos meus projetos que fiz para praticar aqui no GitHub:
-
-- [Membership-Plataform](https://github.com/Luizhnrs/Membership-Platform): Um CRUD para cadastro de membros comuns e membros premium.
-- [API-DevSpeakers](https://github.com/Luizhnrs/MyFirstAPI.ASPNET): Uma API de cadastro para Devs que desejam palestrar em eventos.
-- [Password-Generator](https://github.com/Luizhnrs/PasswordGenerator): Um gerador de senhas feito em Javascript.
-
-Sinta-se à vontade para explorar esses projetos e dar seu feedback!
-
-## Contato
-
-📫 Você pode entrar em contato comigo através do [LinkedIn](https://www.linkedin.com/in/luiz-henrique-guilherme-silva-b70b99277/) ou [Instagram](https://www.instagram.com/luizhnrs/). Estou sempre interessado em conhecer novas pessoas e colaborar em projetos emocionantes.
-
-## Próximos Passos
-
-🌱 Estou constantemente aprendendo e crescendo na minha jornada como programador. Meus planos futuros incluem:
-
-- Aprofundar meu conhecimento em algoritmos e estruturas de dados.
-- Contribuir para projetos de código aberto.
-- Explorar novas tecnologias e tendências em desenvolvimento de software.
-
-Obrigado por visitar meu perfil! Estou empolgado para compartilhar meu progresso e aprender com a incrível comunidade do GitHub.
+# 💫 About Me:
+ Olá, sou Luiz Henrique, anteriormente um especialista em Marketing Digital apaixonado por estratégias digitais e análise de dados. No entanto, minha curiosidade pela engenharia por trás dos algoritmos me levou a mergulhar profundamente no mundo da programação.<br><br>💻 Atualmente, sou um programador focado em desenvolvimento de software e aplicativos, e estou ansioso para explorar novos horizontes neste emocionante campo.
 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@Luizhnrs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Luizhenriquegsilva) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Luizhnrs) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Luizhnrs ) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Luizhnrs ) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Luizhnrs ) 
+
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Luizhnrs&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Luizhnrs&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Luizhnrs&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Luizhnrs&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Luizhnrs&icon=2&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
