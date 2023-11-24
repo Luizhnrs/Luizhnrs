@@ -6,8 +6,7 @@ Software Developer
 
 Hello, I'm Luiz Henrique, formerly a Digital Marketing specialist passionate about digital strategies and data analysis. However, my curiosity about the engineering behind algorithms led me to delve deeply into the world of programming.
 
-* ✉️  You can contact me at [Luizhnrsg@gmail.com](mailto:Luizhnrsg@gmail.com)
-* 🧠  I'm learning AI
+* 🧠  Learning about Artificial Intelligence
 
 ### Skills
 
