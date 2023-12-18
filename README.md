@@ -71,7 +71,6 @@ Hello, I'm Luiz Henrique, formerly a Digital Marketing specialist passionate abo
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
 </div>
-### 
 
 Socials
 
