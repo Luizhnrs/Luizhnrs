@@ -90,7 +90,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Luizhnrs/Luizhnrs/output/snake.svg" alt="Snake animation" />
-
-###
