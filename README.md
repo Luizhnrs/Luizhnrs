@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luiz Henrique
 =====================================================================================================================================
 
-Software Developer
+Software Engineer
 ------------------
 
 Hello, I'm Luiz Henrique, formerly a Digital Marketing specialist passionate about digital strategies and data analysis. However, my curiosity about the engineering behind algorithms led me to delve deeply into the world of programming.
