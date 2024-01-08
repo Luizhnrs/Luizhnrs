@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<img align="left" height="156" src="https://i.gifer.com/Pw0b.gif"  />
+<img align="left" height="150" src="https://i.gifer.com/Pw0b.gif"  />
 
 ###
 
