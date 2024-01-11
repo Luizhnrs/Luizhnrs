@@ -1,7 +1,4 @@
 
-## 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=linkedin(https://www.linkedin.com/in/luizhenriquegsilva/),twitter(https://twitter.com/Luizhnrsg)&theme=light)](https://skillicons.dev)
-
 # 💻 Core
 [![My Skills](https://skillicons.dev/icons?i=cs,java,go,react,js,ts&perline=3)](https://skillicons.dev)
 
