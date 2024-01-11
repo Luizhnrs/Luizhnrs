@@ -10,7 +10,5 @@
 
 # 🛢 Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,prisma,graphql&perline=3)](https://skillicons.dev)
-# 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Luizhnrs&theme=dark)](https://git.io/streak-stats)
 
