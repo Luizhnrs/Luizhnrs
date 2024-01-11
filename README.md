@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,java,go,react,js,ts&perline=3)](https://skillicons.dev)
 
 # 🛠️ Frameworks
-[![My Skills](https://skillicons.dev/icons?i=dotnet,spring,angular,react,nodejs&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,spring,angular,react,nodejs,express&perline=3)](https://skillicons.dev)
 
 # 🛢 Database
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
