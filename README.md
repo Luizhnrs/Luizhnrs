@@ -25,5 +25,5 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 # 📊 GitHub Stats:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Luizhnrs)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?Luizhnrs=&theme=dark)](https://git.io/streak-stats)
 
