@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,prisma,graphql&theme=light)](https://skillicons.dev)
 
 ## 💡 I am developing
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luizhnrs&repo=github-readme-stats)](https://github.com/Luizhnrs/APIRest-Express)
 
 
 
