@@ -8,6 +8,8 @@
 ## 🛢 Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,prisma,graphql&theme=light)](https://skillicons.dev)
 
+## 💡 I am developing
+
 
 
 
