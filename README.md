@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,prisma,graphql&theme=light)](https://skillicons.dev)
 
 ## 💡 Im working on...
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luizhnrs&repo=DiscordClone)](https://github.com/Luizhnrs/DiscordClone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Luizhnrs&repo=Hogwarts-API)](https://github.com/Luizhnrs/Hogwarts-API)
 
 
 
