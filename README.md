@@ -3,7 +3,7 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,java,go,python&theme=dark)](https://skillicons.dev)
 
 ## 🛠️ Frameworks
-[![My Skills](https://skillicons.dev/icons?i=dotnet,spring,django,gin&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,spring,django,react&theme=dark)](https://skillicons.dev)
 
 ## 🛢 Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres&theme=dark)](https://skillicons.dev)
