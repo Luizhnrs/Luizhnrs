@@ -1,5 +1,5 @@
 ## 💻 Languages ​​and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,angular,react&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,golang,angular,react&theme=dark)](https://skillicons.dev)
 ## 🛠️ Other Tools
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq,docker,maven,linux&theme=dark)](https://skillicons.dev)
 ## 🛢 Database
