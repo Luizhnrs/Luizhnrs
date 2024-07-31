@@ -24,7 +24,7 @@ I love designing systems that are light yet powerful, distributed yet synchroniz
 
 
 ## 💻 I am currently working with...
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,dotnet,typescript,rabbitmq,docker,maven,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,rabbitmq,docker,maven,linux&theme=dark)](https://skillicons.dev)
 ## 🛢 Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark)](https://skillicons.dev)
 
