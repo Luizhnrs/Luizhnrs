@@ -10,9 +10,6 @@
 <a href="https://linkedin.com/in/luizhenriquegsilva" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/luizhnrsg" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 
 ### Glad to see you here!  
 I’m a backend developer seeking my first opportunity in the field. My specialty is creating robust backends that do all the heavy lifting for your app or website, using Java, C#, Python, JavaScript, and TypeScript.
