@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Luiz Henrique 
-Sou um desenvolvedor autodidata em busca constante de conhecimento e aprimoramento, com foco em **back-end** e stacks **Fullstack**. Sempre disposto a aprender novas tecnologias e compartilhar conhecimentos!
+Sou um desenvolvedor backend em busca constante de conhecimento e aprimoramento. Sempre disposto a aprender novas tecnologias e compartilhar conhecimentos!
 
 ## 🚀 Tecnologias e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,js,ts,mysql,mongodb,docker,c,cpp,html,css,tailwind,nextjs,nodejs,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,c,cpp,js,ts,mysql,mongodb,docker,tailwind,nextjs,nodejs,git)](https://skillicons.dev)
 
 ---
 
