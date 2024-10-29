@@ -16,6 +16,6 @@
 
 <h2 align="left">I code with</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,js,ts,node,mysql,mongodb,docker,c,cpp )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,js,ts,node,mysql,mongodb,docker,c,cpp)](https://skillicons.dev)
 
 ###
