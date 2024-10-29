@@ -1,21 +1,31 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Olá! Eu sou o Luiz Henrique 
+Sou um desenvolvedor autodidata em busca constante de conhecimento e aprimoramento, com foco em **back-end** e stacks **Fullstack**. Sempre disposto a aprender novas tecnologias e compartilhar conhecimentos!
 
-###
+## 🚀 Tecnologias e Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,js,ts,mysql,mongodb,docker,c,cpp,html,css,tailwind,nextjs,nodejs,git)](https://skillicons.dev)
 
-<p align="left">My name is Luiz Henrique and I'm a Software Engineer, from Brazil!</p>
+---
 
-###
+## 📈 Estatísticas do GitHub
+<div style="display: flex; align-items: center;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizhnrs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhnrs&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 📚 Sobre Mim
+- 🎓 Estudante do segundo semestre de **Sistemas de Informação**
+- 🧠 Aprendi a programar de forma autodidata, e desde então, a programação se tornou minha paixão
+- 💡 Buscando participar de **projetos de programação competitiva** para evolução contínua
+- 💼 Experiência em **marketing digital** como especialista e consultor (2019-2022)
+- 👨‍💻 Apaixonado por contribuir com projetos em **back-end** e **infraestrutura**
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Java and Python</p>
+---
 
-###
+## 🌐 Onde me Encontrar
+- [LinkedIn](https://www.linkedin.com/in/luizhenriquegsilva)
 
-<h2 align="left">I code with</h2>
+---
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,js,ts,mysql,mongodb,docker,c,cpp)](https://skillicons.dev)
-
-###
+Vamos construir coisas incríveis juntos! 🚀
