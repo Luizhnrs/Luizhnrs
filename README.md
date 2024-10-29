@@ -6,19 +6,9 @@ Sou um desenvolvedor autodidata em busca constante de conhecimento e aprimoramen
 
 ---
 
-## 📈 Estatísticas do GitHub
-<div style="display: flex; align-items: center;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizhnrs&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
----
-
 ## 📚 Sobre Mim
-- 🎓 Estudante do segundo semestre de **Sistemas de Informação**
-- 🧠 Aprendi a programar de forma autodidata, e desde então, a programação se tornou minha paixão
-- 💡 Buscando participar de **projetos de programação competitiva** para evolução contínua
-- 💼 Experiência em **marketing digital** como especialista e consultor (2019-2022)
-- 👨‍💻 Apaixonado por contribuir com projetos em **back-end** e **infraestrutura**
+ 
+ Comecei minha trajetória no marketing digital, onde, de 2019 a 2022, ajudei empresas a crescer com estratégias digitais focadas em resultados. Isso me deu uma visão estratégica que, com o tempo, me levou à programação – que começou como hobby e virou paixão. Hoje, estou no segundo semestre de Sistemas de Informação e buscando um estágio em desenvolvimento backend. Tenho experiência com Java, Python e C#, além de SQL e NoSQL, e uso ferramentas como Docker e Postman para otimizar processos. Estou pronto para encarar desafios e contribuir com soluções inovadoras na área de tecnologia!
 
 ---
 
