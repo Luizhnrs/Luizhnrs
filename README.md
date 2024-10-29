@@ -27,4 +27,3 @@ Sou um desenvolvedor autodidata em busca constante de conhecimento e aprimoramen
 
 ---
 
-Vamos construir coisas incríveis juntos! 🚀
