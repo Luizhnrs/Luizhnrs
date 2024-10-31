@@ -3,7 +3,7 @@ I'm a backend developer constantly seeking knowledge and improvement. Always eag
 
 
 ## 🚀 Technologies and Tools
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,c,cpp,js,ts,mysql,mongodb,docker,tailwind,nextjs,nodejs,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,js,ts,mysql,mongodb,docker,tailwind,nextjs,nodejs)](https://skillicons.dev)
 
 ---
 
