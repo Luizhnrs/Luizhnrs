@@ -1,18 +1,18 @@
-# 👋 Olá! Eu sou o Luiz Henrique 
-Sou um desenvolvedor backend em busca constante de conhecimento e aprimoramento. Sempre disposto a aprender novas tecnologias e compartilhar conhecimentos!
+# 👋 Hi! i'm Luiz Henrique 
+I'm a backend developer constantly seeking knowledge and improvement. Always eager to learn new technologies and share knowledge!
 
-## 🚀 Tecnologias e Ferramentas
+
+## 🚀 Technologies and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,c,cpp,js,ts,mysql,mongodb,docker,tailwind,nextjs,nodejs,git)](https://skillicons.dev)
 
 ---
 
-## 📚 Sobre Mim
- 
- Comecei minha trajetória no marketing digital, onde, de 2019 a 2022, ajudei empresas a crescer com estratégias digitais focadas em resultados. Isso me deu uma visão estratégica que, com o tempo, me levou à programação – que começou como hobby e virou paixão. Hoje, estou no segundo semestre de Sistemas de Informação e buscando um estágio em desenvolvimento backend. Tenho experiência com Java, Python e C#, além de SQL e NoSQL, e uso ferramentas como Docker e Postman para otimizar processos. Estou pronto para encarar desafios e contribuir com soluções inovadoras na área de tecnologia!
+## 📚 About Me
+ I started my journey in digital marketing, where, from 2019 to 2022, I helped companies grow with result-focused digital strategies. This gave me a strategic vision that, over time, led me to programming – which started as a hobby and turned into a passion. Today, I'm in my second semester of Information Systems and currently seeking a backend development internship. I have experience with Java, Python, and C#, as well as SQL and NoSQL, and I use tools like Docker and Postman to optimize processes. I'm ready to take on challenges and contribute with innovative solutions in the tech field!
 
 ---
 
-## 🌐 Onde me Encontrar
+## 🌐 Where to Find Me
 - [LinkedIn](https://www.linkedin.com/in/luizhenriquegsilva)
 
 ---
