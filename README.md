@@ -1,19 +1,40 @@
-# 👋 Hi! i'm Luiz Henrique 
-I'm a backend developer constantly seeking knowledge and improvement. Always eager to learn new technologies and share knowledge!
+# 👋 Hello! I'm Luiz Henrique
 
-
-## 🚀 Technologies and Tools
-[![My Skills](https://skillicons.dev/icons?i=java,spring,python,django,js,ts,mysql,mongodb,docker,tailwind,nextjs,nodejs)](https://skillicons.dev)
+I'm a tech enthusiast currently diving deep into **Cybersecurity**. My journey began in digital marketing, transitioned through backend development, and has now evolved into a passion for security, ethical hacking, and protecting systems from digital threats.
 
 ---
 
-## 📚 About Me
- I started my journey in digital marketing, where, from 2019 to 2022, I helped companies grow with result-focused digital strategies. This gave me a strategic vision that, over time, led me to programming – which started as a hobby and turned into a passion. Today, I'm in my second semester of Information Systems and currently seeking a backend development internship. I have experience with Java, Python, and C#, as well as SQL and NoSQL, and I use tools like Docker and Postman to optimize processes. I'm ready to take on challenges and contribute with innovative solutions in the tech field!
+## 🛡️ Cybersecurity Path
+
+I'm currently focused on expanding my knowledge and practical skills in cybersecurity, especially in the following areas:
+
+- 🔐 **Network Security**
+- 🧠 **Ethical Hacking**
+- 🧰 **Vulnerability Assessment**
+- 🕵️ **Penetration Testing**
+- 📜 **Security Best Practices**
+- 🔎 **Incident Response & Monitoring**
+
+### 🧪 Tools & Platforms I’m working with:
+
+[![My Skills](https://skillicons.dev/icons?i=linux,wireshark)](https://skillicons.dev)  
+**Other tools:** Burp Suite · Nmap · Metasploit · Kali Linux · OWASP ZAP · TryHackMe · Hack The Box · OpenVAS · Splunk · ELK Stack
 
 ---
 
-## 🌐 Where to Find Me
+## 📚 Quick Background
+
+I started in **digital marketing (2019–2022)**, helping companies grow through data-driven strategies. Along the way, I discovered programming and developed backend solutions with **Java**, **Python**, and **C#**.
+
+Today, I'm in my **2nd semester of Information Systems**, and fully focused on building a career in cybersecurity — always hands-on, always learning.
+
+---
+
+## 🌐 Let's Connect
+
 - [LinkedIn](https://www.linkedin.com/in/luizhenriquegsilva)
 
 ---
+
+> 💭 "The more you know, the more you realize how much you don't." – Socrates
 
