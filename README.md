@@ -11,7 +11,7 @@ I'm currently focused on expanding my knowledge and practical skills in cybersec
 - 🔐 **Network Security**
 - 🧠 **Ethical Hacking**
 - 🧰 **Vulnerability Assessment**
-- 🕵️ **Penetration Testing**
+- 🕵️ **PenTesting**
 - 📜 **Security Best Practices**
 - 🔎 **Incident Response & Monitoring**
 
