@@ -1,40 +1,37 @@
-# 👋 Hello! I'm Luiz Henrique
+# 👋 Hey, I'm Luiz Henrique
 
-I'm a tech enthusiast currently diving deep into **Cybersecurity**. My journey began in digital marketing, transitioned through backend development, and has now evolved into a passion for security, ethical hacking, and protecting systems from digital threats.
-
----
-
-## 🛡️ Cybersecurity Path
-
-I'm currently focused on expanding my knowledge and practical skills in cybersecurity, especially in the following areas:
-
-- 🔐 **Network Security**
-- 🧠 **Ethical Hacking**
-- 🧰 **Vulnerability Assessment**
-- 🕵️ **PenTesting**
-- 📜 **Security Best Practices**
-- 🔎 **Incident Response & Monitoring**
-
-### 🧪 Tools & Platforms I’m working with:
-
-[![My Skills](https://skillicons.dev/icons?i=linux,wireshark)](https://skillicons.dev)  
-**Other tools:** Burp Suite · Nmap · Metasploit · Kali Linux · OWASP ZAP · TryHackMe · Hack The Box · OpenVAS · Splunk · ELK Stack
+Tech enthusiast transitioning into **Cybersecurity**, with a background in **digital marketing** and **backend development**.
 
 ---
 
-## 📚 Quick Background
+## 🔐 Focus Areas
 
-I started in **digital marketing (2019–2022)**, helping companies grow through data-driven strategies. Along the way, I discovered programming and developed backend solutions with **Java**, **Python**, and **C#**.
+- Network Security  
+- Ethical Hacking  
+- Vulnerability Assessment  
+- PenTesting  
+- Incident Response  
 
-Today, I'm in my **2nd semester of Information Systems**, and fully focused on building a career in cybersecurity — always hands-on, always learning.
+### 🧰 Tools I Use
+
+[![Tools](https://skillicons.dev/icons?i=linux,wireshark,nmap,burpsuite,kali,metasploit,splunk)](https://skillicons.dev)
+
+Other tools: OWASP ZAP · TryHackMe · Hack The Box · OpenVAS · ELK Stack
 
 ---
 
-## 🌐 Let's Connect
+## 🎓 Background
 
-- [LinkedIn](https://www.linkedin.com/in/luizhenriquegsilva)
+From marketing (2019–2022) to coding with **Java**, **Python**, and **C#**.  
+Now in my 3rd semester of **Information Systems**, fully focused on cybersecurity.
 
 ---
 
-> 💭 "The more you know, the more you realize how much you don't." – Socrates
+## 🌐 Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/luizhenriquegsilva)
+
+---
+
+> *"The more you know, the more you realize how much you don't."* – Socrates
 
