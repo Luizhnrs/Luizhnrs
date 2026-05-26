@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor backend com experiência em APIs REST, processamento assíncrono e sistemas de alta escala. Atuação em cenários de alta concorrência, com foco em performance.<br><br>Experiência com C#, .NET, Java e Python. Focado em backend moderno, boas práticas e evolução contínua, com interesse em DevOps e segurança.
+Desenvolvedor backend com experiência em APIs REST, processamento assíncrono e sistemas de alta escala. Atuação em cenários de alta concorrência, com foco em performance.<br><br>Experiência com Java e .NET. Focado em backend moderno, boas práticas e evolução contínua, com interesse em DevOps e segurança.
 
 
 # 💻 Tech Stack:
