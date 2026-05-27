@@ -1,4 +1,4 @@
-# About Me:
+# Perfil Profissional:
 Desenvolvedor backend com foco em Java, arquitetura de microsserviços e aplicações cloud-native. Experiência no desenvolvimento de APIs REST, processamento assíncrono e sistemas escaláveis, atuando em cenários de alta concorrência com foco em performance, resiliência e boas práticas de engenharia de software.
 
 Experiência com ecossistema Spring, mensageria, containers e ambientes cloud, com interesse contínuo em DevOps, automação, observabilidade e infraestrutura escalável em nuvem.
