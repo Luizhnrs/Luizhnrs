@@ -1,7 +1,7 @@
 # About Me:
-Desenvolvedor backend com experiência em construção de APIs REST, processamento assíncrono e aplicações escaláveis orientadas a alta performance. Atuação em ambientes de alta concorrência, com foco em arquitetura backend, eficiência, resiliência e boas práticas de desenvolvimento.
+Desenvolvedor backend com foco em Java, arquitetura de microsserviços e aplicações cloud-native. Experiência no desenvolvimento de APIs REST, processamento assíncrono e sistemas escaláveis, atuando em cenários de alta concorrência com foco em performance, resiliência e boas práticas de engenharia de software.
 
-Experiência com Java e ecossistema Spring, além de atuação com .NET em projetos corporativos. Interesse em microsserviços, mensageria, cloud e automação, buscando evolução contínua em engenharia de software e cultura DevOps.
+Experiência com ecossistema Spring, mensageria, containers e ambientes cloud, com interesse contínuo em DevOps, automação, observabilidade e infraestrutura escalável em nuvem.
 
 
 # Stack:
