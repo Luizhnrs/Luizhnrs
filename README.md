@@ -5,4 +5,4 @@ Experiência com ecossistema Spring, mensageria, containers e ambientes cloud, c
 
 
 # Stack:
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,aws,docker,kubernetes,linux,kafka,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,aws,lambda,sqs,ec2,eks,docker,kubernetes,linux,kafka,postgres,chatgpt,claude)](https://skillicons.dev)
