@@ -5,4 +5,4 @@ Experiência com ecossistema Spring, mensageria, containers e ambientes cloud, c
 
 
 # Stack:
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ajava,spring,maven,aws,lambda,sqs,ec2,eks,docker,kubernetes,linux,kafka,postgres,chatgpt,claude&perline=3)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,spring,maven,aws,lambda,sqs,ec2,eks,docker,kubernetes,linux,kafka,postgres,chatgpt,claude&perline=15)
